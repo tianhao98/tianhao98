@@ -11,16 +11,6 @@ I build and operate tools around **Kubernetes**, **Python automation**, **Linux*
 - 🐍 Python and Shell automation for repeatable engineering workflows
 - 🔍 Debugging, observability, and pragmatic open-source improvements
 
-## Selected work
-
-| Project | What it shows |
-| --- | --- |
-| [ops_tools](https://github.com/tianhao98/ops_tools) | Practical Shell utilities for day-to-day operations |
-| [kube-ldap-authn](https://github.com/tianhao98/kube-ldap-authn) | Kubernetes authentication integration with LDAP |
-| [typeidea](https://github.com/tianhao98/typeidea) | Python web development practice |
-| [python3_spider_learn](https://github.com/tianhao98/python3_spider_learn) | Python crawling and automation experiments |
-| [Python_practise](https://github.com/tianhao98/Python_practise) | A running record of Python practice |
-
 ## Current focus
 
 Exploring clearer internal platforms, AI-assisted development workflows, and upstream fixes that help other engineers too.
@@ -35,4 +25,4 @@ Open to thoughtful conversations about cloud infrastructure, AI tooling, and dev
 
 [![GitHub](https://img.shields.io/badge/GitHub-tianhao98-181717?logo=github)](https://github.com/tianhao98)
 
-<sub>Thanks for stopping by — feel free to explore the repositories above.</sub>
+<sub>Thanks for stopping by.</sub>
